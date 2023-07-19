@@ -147,7 +147,16 @@ The images of company
 
 
 
-![image](https://github.com/subhathra23/Python-web-scraping-project-/assets/137802431/6b4ff01e-d470-4aa8-aa47-2c79086d3c76)
+![image](https://github.com/subhathra23/Python-web-scraping-project-/assets/137802431/d5684a28-c8ea-4ed1-ab7f-ff574e1f7fae)
+
+
+
+
+
+
+
+
+
 
 
 
